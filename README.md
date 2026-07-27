@@ -75,6 +75,8 @@ Generative AI learns from large datasets and produces outputs that resemble the 
 
 If a Generative AI model studies thousands of paintings, it can create a completely new painting in a similar artistic style instead of copying an existing one.
 
+<img width="1307" height="717" alt="image" src="https://github.com/user-attachments/assets/d9c04967-c6a0-46a0-8275-267a4a3d59fb" />
+
 ---
 
 # **2. Difference Between Generative AI and Traditional AI**
